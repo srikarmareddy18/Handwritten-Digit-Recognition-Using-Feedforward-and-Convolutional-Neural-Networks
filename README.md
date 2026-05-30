@@ -1,0 +1,2 @@
+# Handwritten-Digit-Recognition-Using-Feedforward-and-Convolutional-Neural-Networks
+This project compares Feedforward Neural Networks (FNNs) and Convolutional Neural Networks (CNNs) for handwritten digit classification using the MNIST dataset. Both models were trained and evaluated across multiple runs, with CNNs achieving superior accuracy through effective feature extraction and spatial pattern recognition
