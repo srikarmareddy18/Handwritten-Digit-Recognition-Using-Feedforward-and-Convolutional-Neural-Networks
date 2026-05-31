@@ -28,10 +28,10 @@ pip install tensorflow numpy
 ##Dataset Files
 Place the following files in the project directory:
 
-* train-images.idx3-ubyte
-* train-labels.idx1-ubyte
-* t10k-images.idx3-ubyte
-* t10k-labels.idx1-ubyte
+* train-images-idx3-ubyte (WARNING: This file exceeded GitHub's 25MB size limit, precluding it from this repository so you will have to find it online )
+* train-labels-idx1-ubyte
+* t10k-images-idx3-ubyte
+* t10k-labels-idx1-ubyte
 
 ## Usage
 Run the script: **python mnist_classification.py** and the program will train both models and display their test accuracies.
